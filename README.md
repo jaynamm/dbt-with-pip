@@ -1,1 +1,1 @@
-# docker-dbt
+# dbt with pip
